@@ -1,0 +1,5 @@
+name: ExtraPlaceholders
+version: ${project.version}
+main: cz.trsak.extraplaceholders.ExtraPlaceholdersPlugin
+softdepend: [PlaceholderAPI, Residence]
+authors: [Trsak]
