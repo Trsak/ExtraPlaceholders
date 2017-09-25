@@ -2,7 +2,7 @@
 Plugin made for Spigot minecraft server. Tested on spigot version 1.12.
 
 ## Dependencies ##
-[PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+[PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)  
 [Residence](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-12.11480/)
 
 ## Placeholders ##
