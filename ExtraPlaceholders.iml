@@ -34,16 +34,18 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../API/Residence4.7.1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../API/Residence.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../API/Residence.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../TreasureChest/TreasureChest.jar!/" />
+          <root url="jar://$MODULE_DIR$/../API/Residence4.7.1.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

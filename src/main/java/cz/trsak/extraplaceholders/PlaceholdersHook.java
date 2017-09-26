@@ -142,7 +142,7 @@ public class PlaceholdersHook extends EZPlaceholderHook {
         ClaimedResidence res = manager.getByLoc(p.getLocation());
 
         if (res == null) {
-            return ChatColor.YELLOW + "Zadna";
+            return ChatColor.YELLOW + "Zadny";
         }
 
         return ChatColor.YELLOW + res.getOwner();
